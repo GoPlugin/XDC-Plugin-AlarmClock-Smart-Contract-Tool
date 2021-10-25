@@ -48,7 +48,7 @@ Following tools and technologies have been usse to develop Time Locked Smart Con
 - Bootstrap 5.x - https://getbootstrap.com/
 - web3 / xdc3 1.3.x - https://web3js.readthedocs.io/en/v1.5.2/
 - XinPay 6.0.0 - 6.0.0 - https://chrome.google.com/webstore/detail/xinpay/bocpokimicclpaiekenaeelehdjllofo?hl=en
-- Plugin 0.0.1 - https://chain.link/
+- Plugin 0.0.1 - https://github.com/GoPlugin/Plugin
 - Solidity 0.4.24 - https://docs.soliditylang.org/en/v0.8.7/
 
 ![Design](ui/public/design.png)
