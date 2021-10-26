@@ -30,8 +30,8 @@ After the expiration time, only the intended receivers can get the locked up XDC
 
 ## Prerequisite
 ---
-This application requires integration of [XDC Network](https://xinfin.org/) Network with [Plugin](https://chain.link/). 
-It is recommended to follow [XinFin-Plugin](https://github.com/XinFinOrg/XinFin-Plugin) guide and setup all the required applications which includes -   
+This application requires integration of [XDC Network](https://xinfin.org/) Network with [Plugin](https://goplugin.co/). 
+It is recommended to follow [XinFin-Plugin](https://github.com/GoPlugin/XinFin-Plugin) guide and setup all the required applications which includes -   
 
 - Plugin node
 - Plugin - External Initiator
